@@ -1,0 +1,10 @@
+{
+  "citiesServerError": {
+    "status": 500,
+    "contentType": "application/json",
+    "body": {
+      "error": "Internal Server Error",
+      "message": "This response was deliberately mocked by the Playwright test."
+    }
+  }
+}
